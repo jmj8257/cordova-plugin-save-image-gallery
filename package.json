@@ -1,0 +1,55 @@
+{
+  "name": "@jmj8257/cordova-plugin-save-image-gallery",
+  "version": "1.0.1",
+  "deprecated": false,
+  "description": "Cordova plugin to save base64 data as a png/jpg image into the device and applying compression if needed",
+  "cordova": {
+    "id": "cordova-background-location-services",
+    "platforms": [
+      "android",
+      "ios",
+      "wp8"
+    ]
+  },
+  "devDependencies": {
+    "eslint": "1.10.3",
+    "nodemsg": "1.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jmj8257/cordova-save-image-gallery.git"
+  },
+  "keywords": [
+    "image",
+    "base64",
+    "save",
+    "png",
+    "jpg",
+    "photo library",
+    "gallery",
+    "ecosystem:cordova",
+    "cordova-ios",
+    "cordova-android",
+    "cordova-wp8"
+  ],
+  "engines": [
+    {
+      "cordova": ">=3.0.0"
+    },
+    {
+      "node": ">=0.12"
+    }
+  ],
+  "scripts": {
+    "lint": "eslint www/saveImageGallery.js"
+  },
+  "author": "J.Minjun",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jmj8257/cordova-save-image-gallery/issues"
+  },
+  "homepage": "https://github.com/jmj8257/cordova-save-image-gallery#readme",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  }
+}
