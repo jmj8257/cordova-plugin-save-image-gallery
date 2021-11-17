@@ -17,7 +17,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jmj8257/cordova-save-image-gallery.git"
+    "url": "git+https://github.com/jmj8257/cordova-plugin-save-image-gallery.git"
   },
   "keywords": [
     "image",
@@ -46,9 +46,9 @@
   "author": "J.Minjun",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/jmj8257/cordova-save-image-gallery/issues"
+    "url": "https://github.com/jmj8257/cordova-plugin-save-image-gallery/issues"
   },
-  "homepage": "https://github.com/jmj8257/cordova-save-image-gallery#readme",
+  "homepage": "https://github.com/jmj8257/cordova-plugin-save-image-gallery#readme",
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/"
   }
